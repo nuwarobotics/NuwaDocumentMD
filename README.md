@@ -3,8 +3,12 @@ Collect Nuwa Document
 
 ## NUWA Website
 
+* NUWA Official Website
+https://www.nuwarobotics.com/
+
 * NUWA Developer Website (Download SDK , Motion List preview)
 https://dss.nuwarobotics.com/documents/sdkDescription/robotSdk
+
 
 ## NUWA SDK 
 
@@ -22,6 +26,9 @@ https://developer-docs.nuwarobotics.com/sdk/javadoc/reference/packages.html
 
 * NUWA OS Interface Introduction
 https://developer-docs.nuwarobotics.com/sdk/NUWA_APP_Feature_Interface.html
+
+* NUWA Preload Motion list (Use for motionPlay API, need login)
+https://dss.nuwarobotics.com/documents/listMotionFile
 
 ## NUWA Sample Code
 
