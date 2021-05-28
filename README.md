@@ -31,7 +31,7 @@ https://developer-docs.nuwarobotics.com/sdk/NUWA_APP_Feature_Interface.html
 https://dss.nuwarobotics.com/documents/listMotionFile
 
 * NUWA Preload Motion Preview (Use for motionPlay API, no need to login)
-https://bj.bcebos.com/v1/nuwarobotics-files/sdk/kebbi_motion_preview/showPic.html
+https://developer-docs.nuwarobotics.com/sdk/kebbi_motion_preview/showPic.html
 
 
 ## NUWA Sample Code
