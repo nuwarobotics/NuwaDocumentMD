@@ -22,7 +22,7 @@ https://developer-docs.nuwarobotics.com/sdk/NUWA_Robot_SDK_en.html
 https://developer-docs.nuwarobotics.com/sdk/MiboUnity_readme.html
 
 * NUWA JavaDoc (English, public API)
-https://developer-docs.nuwarobotics.com/sdk/javadoc/reference/packages.html
+https://developer-docs.nuwarobotics.com/sdk/javadoc/NuwaSDKDocument.html
 
 * NUWA OS Interface Introduction
 https://developer-docs.nuwarobotics.com/sdk/NUWA_APP_Feature_Interface.html
