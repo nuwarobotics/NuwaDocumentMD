@@ -39,3 +39,20 @@ https://developer-docs.nuwarobotics.com/sdk/kebbi_motion_preview/showPic.html
 * NUWA Github Open Source
 https://github.com/nuwarobotics/NuwaSDKExample
 
+
+## NUWA Trainkit API
+
+* NUWA TrainKit Web(Need apply permission from NUWA)
+https://trainkit.nuwarobotics.com/
+
+* TrainKit website setup CustomBehavior SOP
+https://bj.bcebos.com/v1/nuwarobotics-files/ImageJP/TrainingKit/TrainingKit_Tutorial_for_SDK.html
+
+* Trainkit API Example
+https://github.com/nuwarobotics/NuwaSimpleCustomBehavior
+
+* SDK / Robot Software
+  - Target SDK : 2.1.0.07
+  - Target Robot Version : Japan 1.3749.100JP.2
+  - Target Robot Version : Taiwan 1.3606.10000.1
+
