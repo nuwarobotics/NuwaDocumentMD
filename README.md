@@ -12,11 +12,13 @@ https://dss.nuwarobotics.com/documents/sdkDescription/robotSdk
 
 ## NUWA SDK 
 
-* NUWA SDK Developer Tutorial (English) : Step by Step Guide
-https://developer-docs.nuwarobotics.com/sdk/NUWA_Robot_SDK_Tutorial_en.html
+* NUWA SDK Android Developer Tutorial : Step by Step Starter Guide
+EN : https://developer-docs.nuwarobotics.com/sdk/NUWA_Robot_SDK_Tutorial_en.html
+JP : https://developer-docs.nuwarobotics.com/sdk/NUWA_Robot_SDK_Tutorial_jp.html
 
-* NUWA SDK Document (English, pdf on Nuwa Website) : Nuwa SDK Introduction
-https://developer-docs.nuwarobotics.com/sdk/NUWA_Robot_SDK_en.html
+* NUWA SDK Document (pdf on Nuwa Website) : Nuwa SDK Introduction
+EN : https://developer-docs.nuwarobotics.com/sdk/NUWA_Robot_SDK_en.html
+JP : https://developer-docs.nuwarobotics.com/sdk/NUWA_Robot_SDK_jp.html
 
 * NUWA SDK Unity Document (Chinese) : Nuwa SDK Introduction (Unity version)
 https://developer-docs.nuwarobotics.com/sdk/MiboUnity_readme.html
