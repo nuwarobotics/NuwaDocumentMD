@@ -14,48 +14,49 @@ https://dss.nuwarobotics.com/documents/sdkDescription/robotSdk
 
 * NUWA SDK Android Developer Tutorial : Step by Step Starter Guide
 
-EN : https://developer-docs.nuwarobotics.com/sdk/NUWA_Robot_SDK_Tutorial_en.html
+  - EN : https://developer-docs.nuwarobotics.com/sdk/NUWA_Robot_SDK_Tutorial_en.html
 
-JP : https://developer-docs.nuwarobotics.com/sdk/NUWA_Robot_SDK_Tutorial_jp.html
+  - JP : https://developer-docs.nuwarobotics.com/sdk/NUWA_Robot_SDK_Tutorial_jp.html
 
 * NUWA SDK Document (pdf on Nuwa Website) : Nuwa SDK Introduction
 
-EN : https://developer-docs.nuwarobotics.com/sdk/NUWA_Robot_SDK_en.html
+  - EN : https://developer-docs.nuwarobotics.com/sdk/NUWA_Robot_SDK_en.html
 
-JP : https://developer-docs.nuwarobotics.com/sdk/NUWA_Robot_SDK_jp.html
+  - JP : https://developer-docs.nuwarobotics.com/sdk/NUWA_Robot_SDK_jp.html
 
 * NUWA SDK Unity Document (Chinese) : Nuwa SDK Introduction (Unity version)
-https://developer-docs.nuwarobotics.com/sdk/MiboUnity_readme.html
+
+  - https://developer-docs.nuwarobotics.com/sdk/MiboUnity_readme.html
 
 * NUWA JavaDoc (English, public API)
-https://developer-docs.nuwarobotics.com/sdk/javadoc/NuwaSDKDocument.html
+  - https://developer-docs.nuwarobotics.com/sdk/javadoc/NuwaSDKDocument.html
 
 * NUWA OS Interface Introduction
-https://developer-docs.nuwarobotics.com/sdk/NUWA_APP_Feature_Interface.html
+  - https://developer-docs.nuwarobotics.com/sdk/NUWA_APP_Feature_Interface.html
 
 * NUWA Preload Motion list (Use for motionPlay API, need login)
-https://dss.nuwarobotics.com/documents/listMotionFile
+  - https://dss.nuwarobotics.com/documents/listMotionFile
 
 * NUWA Preload Motion Preview (Use for motionPlay API, no need to login)
-https://developer-docs.nuwarobotics.com/sdk/kebbi_motion_preview/showPic.html
+  - https://developer-docs.nuwarobotics.com/sdk/kebbi_motion_preview/showPic.html
 
 
 ## NUWA Sample Code
 
 * NUWA Github Open Source
-https://github.com/nuwarobotics/NuwaSDKExample
+  - https://github.com/nuwarobotics/NuwaSDKExample
 
 
 ## NUWA Trainkit API
 
 * NUWA TrainKit Web(Need apply permission from NUWA)
-https://trainkit.nuwarobotics.com/
+  - https://trainkit.nuwarobotics.com/
 
 * TrainKit website setup CustomBehavior SOP
-https://bj.bcebos.com/v1/nuwarobotics-files/ImageJP/TrainingKit/TrainingKit_Tutorial_for_SDK.html
+  - https://bj.bcebos.com/v1/nuwarobotics-files/ImageJP/TrainingKit/TrainingKit_Tutorial_for_SDK.html
 
 * Trainkit API Example
-https://github.com/nuwarobotics/NuwaSimpleCustomBehavior
+  - https://github.com/nuwarobotics/NuwaSimpleCustomBehavior
 
 * SDK / Robot Software
   - Target SDK : 2.1.0.07
