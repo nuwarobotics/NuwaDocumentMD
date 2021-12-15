@@ -31,6 +31,9 @@ https://dss.nuwarobotics.com/documents/sdkDescription/robotSdk
 * NUWA JavaDoc (English, public API)
   - https://developer-docs.nuwarobotics.com/sdk/javadoc/NuwaSDKDocument.html
 
+* NUWA Camera SDK Introduction
+* - https://developer-docs.nuwarobotics.com/sdk/NuwaCameraSDK.html
+
 * NUWA OS Interface Introduction
   - https://developer-docs.nuwarobotics.com/sdk/NUWA_APP_Feature_Interface.html
 
