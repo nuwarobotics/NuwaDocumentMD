@@ -9,6 +9,17 @@ https://www.nuwarobotics.com/
 * NUWA Developer Website (Download SDK , Motion List preview)
 https://dss.nuwarobotics.com/documents/sdkDescription/robotSdk
 
+## SDK Question & Issue Feedback
+
+* Nuwa SDK API Usage
+
+  - https://github.com/nuwarobotics/NuwaSDKExample/issues
+
+* Nuwa Camera SDK API Usage
+
+  - https://github.com/nuwarobotics/NuwaCameraSDKExample/issues
+
+
 
 ## NUWA SDK 
 
