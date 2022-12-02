@@ -67,7 +67,7 @@ https://dss.nuwarobotics.com/documents/sdkDescription/robotSdk
   - https://trainkit.nuwarobotics.com/
 
 * TrainKit website setup CustomBehavior SOP
-  - https://bj.bcebos.com/v1/nuwarobotics-files/ImageJP/TrainingKit/TrainingKit_Tutorial_for_SDK.html
+  - https://developer-docs.nuwarobotics.com/v1/ImageJP/TrainingKit/TrainingKit_Tutorial_for_SDK.html
 
 * Trainkit API Example
   - https://github.com/nuwarobotics/NuwaSimpleCustomBehavior
