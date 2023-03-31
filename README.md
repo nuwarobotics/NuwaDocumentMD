@@ -37,7 +37,9 @@ https://dss.nuwarobotics.com/documents/sdkDescription/robotSdk
 
 * NUWA SDK Unity Document (Chinese) : Nuwa SDK Introduction (Unity version)
 
-  - https://developer-docs.nuwarobotics.com/sdk/MiboUnity_readme.html
+  - https://developer-docs.nuwarobotics.com/sdk/NuwaSDK_unity_readme.html
+
+  - https://developer-docs.nuwarobotics.com/sdk/NuwaSDK_unity_readme_tw.html
 
 * NUWA JavaDoc (English, public API)
   - https://developer-docs.nuwarobotics.com/sdk/javadoc/NuwaSDKDocument.html
