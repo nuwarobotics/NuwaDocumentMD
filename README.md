@@ -56,6 +56,11 @@ https://dss.nuwarobotics.com/documents/sdkDescription/robotSdk
 * NUWA Preload Motion Preview (Use for motionPlay API, no need to login)
   - https://developer-docs.nuwarobotics.com/sdk/kebbi_motion_preview/showPic.html
 
+* NUWA Preload Mouth Emotion Preview (Use for UnityFaceManager.mouthEmotionOn API)
+  - https://developer-docs.nuwarobotics.com/sdk/kebbi_mouth_preview/showPic.html
+
+* NUWA Preload Face emoji Preview (Use for UnityFaceManager.playFaceAnimation(String) API)
+  - https://developer-docs.nuwarobotics.com/sdk/kebbi_emoji_preview/showPic.html
 
 ## NUWA Sample Code
 
