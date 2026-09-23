@@ -1,6 +1,18 @@
 # NuwaDocumentMD
 Collect Nuwa Document
 
+## `Support Robot Product`
+Robot Generation 1 
+* Kebbi(凱比) : WorldWide
+* Danny(小丹) : China
+
+Robot Generation 2 - 2018
+* Kebbi Air : Taiwan、China、Japan
+
+Robot Generation 3 - 2026
+* Kebbi 3 (2026 Kebbi) : WorldWide
+
+
 ## NUWA Website
 
 * NUWA Official Website
